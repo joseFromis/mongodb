@@ -42,3 +42,6 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+mongodb.ipr
+week1/target/
+week2/src/
